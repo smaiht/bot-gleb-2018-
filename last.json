@@ -1,0 +1,208 @@
+{
+  "message": {
+    "date": 1589784130,
+    "from_id": 210493572,
+    "id": 0,
+    "out": 0,
+    "peer_id": 2000000003,
+    "text": "!кто",
+    "conversation_message_id": 68833,
+    "fwd_messages": [],
+    "important": false,
+    "random_id": 0,
+    "attachments": [],
+    "is_hidden": false,
+    "type": "message_new"
+  },
+  "client_info": {
+    "button_actions": [
+      "text",
+      "vkpay",
+      "open_app",
+      "location",
+      "open_link"
+    ],
+    "keyboard": true,
+    "inline_keyboard": true,
+    "lang_id": 0
+  },
+  "bot": {
+    "middlewares": [
+      {
+        "triggers": [
+          {}
+        ]
+      },
+      {
+        "triggers": [
+          {}
+        ]
+      },
+      {
+        "triggers": [
+          {}
+        ]
+      },
+      {
+        "triggers": [
+          {}
+        ]
+      },
+      {
+        "triggers": [
+          "инициирую"
+        ]
+      },
+      {
+        "triggers": [
+          {}
+        ]
+      },
+      {
+        "triggers": [
+          {}
+        ]
+      },
+      {
+        "triggers": [
+          {}
+        ]
+      },
+      {
+        "triggers": [
+          "!шутка"
+        ]
+      },
+      {
+        "triggers": [
+          "!шутки"
+        ]
+      },
+      {
+        "triggers": [
+          "!кто"
+        ]
+      },
+      {
+        "triggers": [
+          "!топ"
+        ]
+      },
+      {
+        "triggers": [
+          {}
+        ]
+      },
+      {
+        "triggers": [
+          {}
+        ]
+      },
+      {
+        "triggers": [
+          {}
+        ]
+      },
+      {
+        "triggers": [
+          {}
+        ]
+      },
+      {
+        "triggers": [
+          {}
+        ]
+      },
+      {
+        "triggers": [
+          {}
+        ]
+      },
+      {
+        "triggers": [
+          {}
+        ]
+      },
+      {
+        "triggers": [
+          {}
+        ]
+      },
+      {
+        "triggers": [
+          "расписание",
+          "пары"
+        ]
+      },
+      {
+        "triggers": [
+          {}
+        ]
+      },
+      {
+        "triggers": [
+          {}
+        ]
+      },
+      {
+        "triggers": [
+          {}
+        ]
+      },
+      {
+        "triggers": [
+          {}
+        ]
+      },
+      {
+        "triggers": [
+          "!препод"
+        ]
+      },
+      {
+        "triggers": [
+          {}
+        ]
+      },
+      {
+        "triggers": [
+          {}
+        ]
+      },
+      {
+        "triggers": [
+          "доллар",
+          "евро",
+          "бакс",
+          "курс",
+          "йен",
+          "йены",
+          "usd",
+          "yen",
+          "стипуха глеба"
+        ]
+      },
+      {
+        "triggers": [
+          "биткоин",
+          "биток",
+          "бетховен"
+        ]
+      }
+    ],
+    "methods": [],
+    "isStopped": false,
+    "settings": {
+      "polling_timeout": 25,
+      "execute_timeout": 50,
+      "token": "ca2fa368ee8c6658db983f9935407867fcd76eba4a3f9b4957e73758d20bc426f1b88343737220a52cf5b",
+      "group_id": 190043017
+    },
+    "longPollParams": {
+      "key": "95f64b597e5e16f0b5dabbbcf971a7d269ed1a9a",
+      "server": "https://lp.vk.com/wh190043017",
+      "ts": "10151"
+    },
+    "ts": "10155"
+  }
+}

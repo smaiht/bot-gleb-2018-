@@ -1,0 +1,634 @@
+[
+  {
+    "id": 97870795,
+    "first_name": "Валерий",
+    "last_name": "Михайлов",
+    "is_closed": false,
+    "can_access_closed": true,
+    "sex": 2,
+    "screen_name": "losten33",
+    "photo_50": "https://sun9-6.userapi.com/c846416/v846416898/e0095/vSr0Sjkf4q0.jpg?ava=1",
+    "photo_100": "https://sun9-68.userapi.com/c846416/v846416898/e0094/jFmHT-Y4dGY.jpg?ava=1",
+    "online": 0,
+    "online_info": {
+      "visible": true,
+      "last_seen": 1577009192,
+      "app_id": 2274003,
+      "is_mobile": true
+    },
+    "wins": 3
+  },
+  {
+    "id": 310742276,
+    "first_name": "Тимур",
+    "last_name": "Мерзликин",
+    "is_closed": false,
+    "can_access_closed": true,
+    "sex": 2,
+    "screen_name": "id310742276",
+    "photo_50": "https://vk.com/images/camera_50.png?ava=1",
+    "photo_100": "https://vk.com/images/camera_100.png?ava=1",
+    "online": 0,
+    "online_info": {
+      "visible": true,
+      "last_seen": 1577014885,
+      "app_id": 3140623,
+      "is_mobile": true
+    },
+    "wins": 1
+  },
+  {
+    "id": 137749874,
+    "first_name": "Роман",
+    "last_name": "Широкожухов",
+    "is_closed": false,
+    "can_access_closed": true,
+    "sex": 2,
+    "screen_name": "shirokozhukhovroman",
+    "photo_50": "https://sun6-19.userapi.com/c824411/v824411068/13d5d5/_tHpbjCHD_Q.jpg?ava=1",
+    "photo_100": "https://sun6-14.userapi.com/c824411/v824411068/13d5d4/actNT2YKKJI.jpg?ava=1",
+    "online": 1,
+    "online_info": {
+      "visible": true,
+      "is_online": true
+    },
+    "wins": 1
+  },
+  {
+    "id": 126218664,
+    "first_name": "Екатерина",
+    "last_name": "Апошнянская",
+    "is_closed": false,
+    "can_access_closed": true,
+    "sex": 1,
+    "screen_name": "id126218664",
+    "photo_50": "https://sun9-56.userapi.com/c858436/v858436292/ffda5/j8P82sLYrqs.jpg?ava=1",
+    "photo_100": "https://sun9-26.userapi.com/c858436/v858436292/ffda4/oCA4EBjN800.jpg?ava=1",
+    "online": 0,
+    "online_info": {
+      "visible": true,
+      "last_seen": 1577163969,
+      "app_id": 3140623,
+      "is_mobile": true
+    },
+    "wins": 1
+  },
+  {
+    "id": 176691735,
+    "first_name": "Карен",
+    "last_name": "Хлхатян",
+    "is_closed": false,
+    "can_access_closed": true,
+    "sex": 2,
+    "screen_name": "xka3108",
+    "photo_50": "https://sun9-58.userapi.com/c627316/v627316735/23007/9XQuwTu4CXA.jpg?ava=1",
+    "photo_100": "https://sun9-27.userapi.com/c627316/v627316735/23006/F-Iy-FBiw6E.jpg?ava=1",
+    "online": 0,
+    "online_info": {
+      "visible": true,
+      "last_seen": 1577258260,
+      "app_id": 3140623,
+      "is_mobile": true
+    },
+    "wins": 1
+  },
+  {
+    "id": 132062397,
+    "first_name": "Александр",
+    "last_name": "Никитин",
+    "is_closed": false,
+    "can_access_closed": true,
+    "sex": 2,
+    "screen_name": "san4ik_69",
+    "photo_50": "https://sun9-49.userapi.com/c854024/v854024882/14d9d7/X92obwwyr3s.jpg?ava=1",
+    "photo_100": "https://sun9-71.userapi.com/c854024/v854024882/14d9d6/Ia7jTsV52fE.jpg?ava=1",
+    "online": 0,
+    "online_info": {
+      "visible": true,
+      "last_seen": 1577362931,
+      "app_id": 3140623,
+      "is_mobile": true
+    },
+    "wins": 1
+  },
+  {
+    "id": 80726117,
+    "first_name": "Глеб",
+    "last_name": "Станишевский",
+    "is_closed": false,
+    "can_access_closed": true,
+    "sex": 2,
+    "screen_name": "glebrocketeer",
+    "photo_50": "https://sun6-14.userapi.com/c850608/v850608246/23649/7UtcsigFvm4.jpg?ava=1",
+    "photo_100": "https://sun6-13.userapi.com/c850608/v850608246/23648/8VQywg52qiE.jpg?ava=1",
+    "online": 0,
+    "online_info": {
+      "visible": true,
+      "last_seen": 1577454998,
+      "app_id": 2274003,
+      "is_mobile": true
+    },
+    "wins": 2
+  },
+  {
+    "id": 134926555,
+    "first_name": "Тарас",
+    "last_name": "Леженников",
+    "is_closed": false,
+    "can_access_closed": true,
+    "sex": 2,
+    "screen_name": "lezhennikovt",
+    "photo_50": "https://sun9-2.userapi.com/c855732/v855732781/14e780/uKn2Tbtm6lw.jpg?ava=1",
+    "photo_100": "https://sun9-12.userapi.com/c855732/v855732781/14e77f/6fh_GTCnopw.jpg?ava=1",
+    "online": 0,
+    "online_info": {
+      "visible": true,
+      "last_seen": 1577532337
+    },
+    "wins": 1
+  },
+  {
+    "id": 19153616,
+    "first_name": "Александр",
+    "last_name": "Апасов",
+    "is_closed": false,
+    "can_access_closed": true,
+    "sex": 2,
+    "screen_name": "coolpasich",
+    "photo_50": "https://sun9-69.userapi.com/c855132/v855132280/1a3292/VJnnfMMd4do.jpg?ava=1",
+    "photo_100": "https://sun9-12.userapi.com/c855132/v855132280/1a3291/3ih7f_wpLws.jpg?ava=1",
+    "online": 0,
+    "online_info": {
+      "visible": true,
+      "last_seen": 1577738679
+    },
+    "wins": 2
+  },
+  {
+    "id": 98405398,
+    "first_name": "Никита",
+    "last_name": "Калмыков",
+    "is_closed": false,
+    "can_access_closed": true,
+    "sex": 2,
+    "screen_name": "biiglik",
+    "photo_50": "https://sun9-65.userapi.com/c851324/v851324137/15cb43/kHAZx8l6ujE.jpg?ava=1",
+    "photo_100": "https://sun9-46.userapi.com/c851324/v851324137/15cb42/umb5R-YcCa4.jpg?ava=1",
+    "online": 0,
+    "online_info": {
+      "visible": true,
+      "last_seen": 1577793360,
+      "app_id": 2274003,
+      "is_mobile": true
+    },
+    "wins": 1
+  },
+  {
+    "id": 147431000,
+    "first_name": "Александр",
+    "last_name": "Александров",
+    "is_closed": true,
+    "can_access_closed": true,
+    "sex": 2,
+    "screen_name": "shatrunoff",
+    "photo_50": "https://sun9-9.userapi.com/c849128/v849128092/1818f4/2pzeaamEEjY.jpg?ava=1",
+    "photo_100": "https://sun9-17.userapi.com/c849128/v849128092/1818f3/GV3T7J9D0ek.jpg?ava=1",
+    "online": 0,
+    "online_info": {
+      "visible": true,
+      "last_seen": 1578583811,
+      "app_id": 5027722
+    },
+    "wins": 2
+  },
+  {
+    "id": 210829396,
+    "first_name": "Дмитрий",
+    "last_name": "Дурнов",
+    "is_closed": false,
+    "can_access_closed": true,
+    "sex": 2,
+    "screen_name": "rdsdvhnkjgv",
+    "photo_50": "https://sun9-64.userapi.com/c830708/v830708256/1bf447/tPzKQ1felCA.jpg?ava=1",
+    "photo_100": "https://sun9-2.userapi.com/c830708/v830708256/1bf446/hasCxUp_4C8.jpg?ava=1",
+    "online": 0,
+    "online_info": {
+      "visible": true,
+      "last_seen": 1579670048,
+      "app_id": 2274003,
+      "is_mobile": true
+    },
+    "wins": 1
+  },
+  {
+    "id": 47537606,
+    "first_name": "Рома",
+    "last_name": "Богачёв",
+    "is_closed": true,
+    "can_access_closed": true,
+    "sex": 2,
+    "screen_name": "romqahater",
+    "photo_50": "https://vk.com/images/camera_50.png?ava=1",
+    "photo_100": "https://vk.com/images/camera_100.png?ava=1",
+    "online": 0,
+    "online_info": {
+      "visible": true,
+      "last_seen": 1580361463,
+      "app_id": 2274003,
+      "is_mobile": true
+    },
+    "wins": 2
+  },
+  {
+    "id": 71753488,
+    "first_name": "Екатерина",
+    "last_name": "Мухина",
+    "is_closed": false,
+    "can_access_closed": true,
+    "sex": 1,
+    "screen_name": "id71753488",
+    "photo_50": "https://sun9-19.userapi.com/c858024/v858024326/7085b/IGZ2qj2WN1c.jpg?ava=1",
+    "photo_100": "https://sun9-23.userapi.com/c858024/v858024326/7085a/kFXdS-mo5G8.jpg?ava=1",
+    "online": 0,
+    "online_info": {
+      "visible": true,
+      "last_seen": 1580551174,
+      "app_id": 2274003,
+      "is_mobile": true
+    },
+    "wins": 1
+  },
+  {
+    "id": 131180183,
+    "first_name": "Любовь",
+    "last_name": "Коренева",
+    "is_closed": false,
+    "can_access_closed": true,
+    "sex": 1,
+    "screen_name": "myau20",
+    "photo_50": "https://sun9-27.userapi.com/c850328/v850328421/16975b/MeSlAAUU6Rk.jpg?ava=1",
+    "photo_100": "https://sun9-68.userapi.com/c850328/v850328421/16975a/iEDAH74Fq2s.jpg?ava=1",
+    "online": 0,
+    "online_info": {
+      "visible": true,
+      "last_seen": 1580623989,
+      "app_id": 3140623,
+      "is_mobile": true
+    },
+    "wins": 2
+  },
+  {
+    "id": 62708542,
+    "first_name": "Александра",
+    "last_name": "Корельцева",
+    "is_closed": false,
+    "can_access_closed": true,
+    "sex": 1,
+    "screen_name": "aleksjester",
+    "photo_50": "https://sun9-15.userapi.com/c857424/v857424756/164a46/XSjFyw1uxss.jpg?ava=1",
+    "photo_100": "https://sun9-60.userapi.com/c857424/v857424756/164a45/WcgGVXOj1d0.jpg?ava=1",
+    "online": 0,
+    "online_info": {
+      "visible": true,
+      "last_seen": 1580713086,
+      "app_id": 3140623,
+      "is_mobile": true
+    },
+    "wins": 1
+  },
+  {
+    "id": 181121416,
+    "first_name": "Дмитрий",
+    "last_name": "Беденко",
+    "is_closed": false,
+    "can_access_closed": true,
+    "sex": 2,
+    "screen_name": "bedenko.dmitry",
+    "photo_50": "https://sun6-16.userapi.com/c849032/v849032866/152457/N41hTkMB0P8.jpg?ava=1",
+    "photo_100": "https://sun6-19.userapi.com/c849032/v849032866/152456/4W3pwtAwl4Y.jpg?ava=1",
+    "online": 0,
+    "online_info": {
+      "visible": true,
+      "last_seen": 1580834974,
+      "app_id": 2274003,
+      "is_mobile": true
+    },
+    "wins": 1
+  },
+  {
+    "id": 71879592,
+    "first_name": "Федор",
+    "last_name": "Дорошин",
+    "is_closed": false,
+    "can_access_closed": true,
+    "sex": 2,
+    "screen_name": "fedor963",
+    "photo_50": "https://sun9-28.userapi.com/c852024/v852024199/d577f/c2XeTK2kL1c.jpg?ava=1",
+    "photo_100": "https://sun9-7.userapi.com/c852024/v852024199/d577e/BjsL3IuKGtU.jpg?ava=1",
+    "online": 0,
+    "online_info": {
+      "visible": true,
+      "last_seen": 1580924505,
+      "app_id": 3140623,
+      "is_mobile": true
+    },
+    "wins": 2
+  },
+  {
+    "id": 208824984,
+    "first_name": "Дима",
+    "last_name": "Брежнев",
+    "is_closed": false,
+    "can_access_closed": true,
+    "sex": 2,
+    "screen_name": "pixpaxzhmyr",
+    "photo_50": "https://vk.com/images/camera_50.png?ava=1",
+    "photo_100": "https://vk.com/images/camera_100.png?ava=1",
+    "online": 0,
+    "online_info": {
+      "visible": true,
+      "last_seen": 1509455913
+    },
+    "wins": 2
+  },
+  {
+    "id": 157529922,
+    "first_name": "Станислав",
+    "last_name": "Чижевский",
+    "is_closed": false,
+    "can_access_closed": true,
+    "sex": 2,
+    "screen_name": "vkstasch",
+    "photo_50": "https://vk.com/images/camera_50.png?ava=1",
+    "photo_100": "https://vk.com/images/camera_100.png?ava=1",
+    "online": 1,
+    "online_app": 2274003,
+    "online_mobile": 1,
+    "online_info": {
+      "visible": true,
+      "is_online": true,
+      "app_id": 2274003,
+      "is_mobile": true
+    },
+    "wins": 1
+  },
+  {
+    "id": 28523251,
+    "first_name": "Роман",
+    "last_name": "Соболев",
+    "is_closed": true,
+    "can_access_closed": false,
+    "sex": 2,
+    "screen_name": "id28523251",
+    "photo_50": "https://vk.com/images/camera_50.png?ava=1",
+    "photo_100": "https://vk.com/images/camera_100.png?ava=1",
+    "online": 0,
+    "online_info": {
+      "visible": true,
+      "last_seen": 1582103542,
+      "app_id": 3140623,
+      "is_mobile": true
+    },
+    "wins": 1
+  },
+  {
+    "id": 209410851,
+    "first_name": "Матвей",
+    "last_name": "Бонарь",
+    "is_closed": false,
+    "can_access_closed": true,
+    "sex": 2,
+    "screen_name": "id209410851",
+    "photo_50": "https://sun9-6.userapi.com/c621704/v621704230/99e1/rLO6fLCy1U4.jpg?ava=1",
+    "photo_100": "https://sun9-7.userapi.com/c621704/v621704230/99e0/IjDWlX5PaKQ.jpg?ava=1",
+    "online": 1,
+    "online_mobile": 1,
+    "online_info": {
+      "visible": true,
+      "is_online": true,
+      "is_mobile": true
+    },
+    "wins": 1
+  },
+  {
+    "id": 37260200,
+    "first_name": "Ульяна",
+    "last_name": "Рябцева",
+    "is_closed": false,
+    "can_access_closed": true,
+    "sex": 1,
+    "screen_name": "ulsh.rbtsv",
+    "photo_50": "https://sun6-13.userapi.com/c204828/v204828137/33d65/D0TBtJxmc7U.jpg?ava=1",
+    "photo_100": "https://sun6-19.userapi.com/c204828/v204828137/33d64/dB_C8rHMqZI.jpg?ava=1",
+    "online": 0,
+    "online_info": {
+      "visible": true,
+      "last_seen": 1583258647,
+      "app_id": 3140623,
+      "is_mobile": true
+    },
+    "wins": 1
+  },
+  {
+    "id": 56204213,
+    "first_name": "Ирина",
+    "last_name": "Петрова",
+    "is_closed": true,
+    "can_access_closed": true,
+    "sex": 1,
+    "screen_name": "crazy_bom",
+    "photo_50": "https://sun6-16.userapi.com/c855028/v855028633/6d063/mwTjWMObJJc.jpg?ava=1",
+    "photo_100": "https://sun6-16.userapi.com/c855028/v855028633/6d062/XnIjN7Cb7F8.jpg?ava=1",
+    "online": 0,
+    "online_info": {
+      "visible": true,
+      "last_seen": 1583473667,
+      "app_id": 3140623,
+      "is_mobile": true
+    },
+    "wins": 1
+  },
+  {
+    "id": 26710043,
+    "first_name": "Дмитрий",
+    "last_name": "Зотов",
+    "is_closed": false,
+    "can_access_closed": true,
+    "sex": 2,
+    "screen_name": "id26710043",
+    "photo_50": "https://sun9-10.userapi.com/c849216/v849216892/5970c/XqoHz9OgVXM.jpg?ava=1",
+    "photo_100": "https://sun9-59.userapi.com/c849216/v849216892/5970b/VRS2fMJAQ-8.jpg?ava=1",
+    "online": 0,
+    "online_info": {
+      "visible": true,
+      "last_seen": 1584493549,
+      "app_id": 3140623,
+      "is_mobile": true
+    },
+    "wins": 1
+  },
+  {
+    "id": 80888283,
+    "first_name": "Аркадий",
+    "last_name": "Дидковский",
+    "is_closed": true,
+    "can_access_closed": false,
+    "sex": 2,
+    "screen_name": "id80888283",
+    "photo_50": "https://sun6-13.userapi.com/c850536/v850536225/1a04d9/WX4whCIly4Y.jpg?ava=1",
+    "photo_100": "https://sun6-19.userapi.com/c850536/v850536225/1a04d8/Djdxi8BkLP4.jpg?ava=1",
+    "online": 0,
+    "online_info": {
+      "visible": true,
+      "last_seen": 1584475279,
+      "is_mobile": true
+    },
+    "wins": 1
+  },
+  {
+    "id": 98578422,
+    "first_name": "Анастасия",
+    "last_name": "Козлова",
+    "is_closed": false,
+    "can_access_closed": true,
+    "sex": 1,
+    "screen_name": "ananas_raskolbas",
+    "photo_50": "https://sun6-16.userapi.com/c858028/v858028475/21fa7/_NR-vH8bbp4.jpg?ava=1",
+    "photo_100": "https://sun6-16.userapi.com/c858028/v858028475/21fa6/_1EmPidf-As.jpg?ava=1",
+    "online": 1,
+    "online_app": 3140623,
+    "online_mobile": 1,
+    "online_info": {
+      "visible": true,
+      "is_online": true,
+      "app_id": 3140623,
+      "is_mobile": true
+    },
+    "wins": 1
+  },
+  {
+    "id": 72165284,
+    "first_name": "Екатерина",
+    "last_name": "Тимофеева",
+    "is_closed": false,
+    "can_access_closed": true,
+    "sex": 1,
+    "screen_name": "id72165284",
+    "photo_50": "https://sun9-4.userapi.com/c854420/v854420788/5a8eb/M-9RLufyRxc.jpg?ava=1",
+    "photo_100": "https://sun9-63.userapi.com/c854420/v854420788/5a8ea/McvTpkok6k4.jpg?ava=1",
+    "online": 0,
+    "online_info": {
+      "visible": true,
+      "last_seen": 1585074714,
+      "app_id": 2274003,
+      "is_mobile": true
+    },
+    "wins": 1
+  },
+  {
+    "id": 259068882,
+    "first_name": "Юрий",
+    "last_name": "Головков",
+    "is_closed": false,
+    "can_access_closed": true,
+    "sex": 2,
+    "screen_name": "muimr",
+    "photo_50": "https://sun9-57.userapi.com/c855324/v855324528/10a92f/gFeS1F08Kyg.jpg?ava=1",
+    "photo_100": "https://sun9-29.userapi.com/c855324/v855324528/10a92e/Rpz9vxql2gc.jpg?ava=1",
+    "online": 0,
+    "online_info": {
+      "visible": true,
+      "last_seen": 1586088308
+    },
+    "wins": 1
+  },
+  {
+    "id": 173344660,
+    "first_name": "Чингисхан",
+    "last_name": "Садиров",
+    "is_closed": false,
+    "can_access_closed": true,
+    "sex": 2,
+    "screen_name": "kruglov_privet",
+    "photo_50": "https://sun6-16.userapi.com/c858436/v858436545/8ca53/xOukZPZD1K8.jpg?ava=1",
+    "photo_100": "https://sun6-14.userapi.com/c858436/v858436545/8ca52/ut6r6kSqkW8.jpg?ava=1",
+    "online": 0,
+    "online_info": {
+      "visible": true,
+      "last_seen": 1586226109,
+      "app_id": 3140623,
+      "is_mobile": true
+    },
+    "wins": 1
+  },
+  {
+    "id": 189250039,
+    "first_name": "Татьяна",
+    "last_name": "Балашова",
+    "is_closed": false,
+    "can_access_closed": true,
+    "sex": 1,
+    "screen_name": "id189250039",
+    "photo_50": "https://sun9-45.userapi.com/c857416/v857416815/ec2fa/thnfrFQ_MDE.jpg?ava=1",
+    "photo_100": "https://sun9-12.userapi.com/c857416/v857416815/ec2f9/iLBGWZzWT9Q.jpg?ava=1",
+    "online": 0,
+    "online_info": {
+      "visible": true,
+      "last_seen": 1586436727
+    },
+    "wins": 1
+  },
+  {
+    "id": 136126452,
+    "first_name": "Артём",
+    "last_name": "Марков",
+    "is_closed": false,
+    "can_access_closed": true,
+    "sex": 2,
+    "screen_name": "by_sid_fm",
+    "photo_50": "https://sun9-35.userapi.com/c857232/v857232865/c76c1/WeExgycm6e8.jpg?ava=1",
+    "photo_100": "https://sun9-43.userapi.com/c857232/v857232865/c76c0/L-NdsTLKSH8.jpg?ava=1",
+    "online": 1,
+    "online_info": {
+      "visible": true,
+      "is_online": true
+    },
+    "wins": 1
+  },
+  {
+    "id": 50396723,
+    "first_name": "Анастасия",
+    "last_name": "Андреева",
+    "is_closed": false,
+    "can_access_closed": true,
+    "sex": 1,
+    "screen_name": "entoshik",
+    "photo_50": "https://sun6-13.userapi.com/yXtjFGONwua6BtJXZ7tAFF5i34u6fIybiI1t3w/arEk9h6brdE.jpg?ava=1",
+    "photo_100": "https://sun6-19.userapi.com/GajfzSoc8Y8QT3lQiPEazLvhcxVkT87G7gYqmw/WYZRLeytQJo.jpg?ava=1",
+    "online": 0,
+    "online_info": {
+      "visible": true,
+      "last_seen": 1587916313,
+      "app_id": 2274003,
+      "is_mobile": true
+    },
+    "wins": 1
+  },
+  {
+    "id": 85400677,
+    "first_name": "Никита",
+    "last_name": "Селиванов",
+    "is_closed": false,
+    "can_access_closed": true,
+    "sex": 2,
+    "screen_name": "ndselivanov",
+    "photo_50": "https://sun9-47.userapi.com/c851536/v851536493/cf58a/_rNcZD_rFIs.jpg?ava=1",
+    "photo_100": "https://sun9-55.userapi.com/c851536/v851536493/cf589/XXFWZGezFys.jpg?ava=1",
+    "online": 0,
+    "online_info": {
+      "visible": true,
+      "last_seen": 1589764093
+    },
+    "wins": 1
+  }
+]
