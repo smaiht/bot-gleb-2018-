@@ -36,9 +36,6 @@ const VkBot = require("node-vk-bot-api"),
 bot.startPolling();
 //////////////////////////////////////////////////// - var
 
-setInterval(() => {
-http.get(`http://${process.env.PROJECT_DOMAIN}.glitch.me/`);
-}, 280000);
 
 let start = [
   "Звоню в дурку...",
