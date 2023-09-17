@@ -1,3 +1,4 @@
+*This project is no longer maintained.*
 # VK Group Chat Bot 🤖
 
 Welcome to my first repository! This bot is designed for VK group chats and comes packed with a variety of features to enhance the group chat experience.
